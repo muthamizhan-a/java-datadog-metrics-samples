@@ -28,7 +28,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.dataDog.App</mainClass>
+							<mainClass>com.datadog.AppMain</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
